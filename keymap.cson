@@ -1,0 +1,14 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-shift-c': 'editor:toggle-line-comments'
+  'ctrl-enter':   'platformio-ide-terminal:insert-selected-text'
+'.platform-win32, .platform-linux':
+  'ctrl-alt-/': 'tree-view:toggle'
+
+'atom-text-editor':
+  'ctrl-shift-m': 'custom:piper'
+  'alt--':        'custom:assign'
+  'ctrl-i':       'editor:auto-indent'
+  'ctrl-alt-m':   'markdown-preview:toggle'
+
+'body':
+  'ctrl-c': 'core:copy'

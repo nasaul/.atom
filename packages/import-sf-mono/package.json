@@ -1,0 +1,56 @@
+{
+  "_from": "https://www.atom.io/api/packages/import-sf-mono/versions/1.0.1/tarball",
+  "_id": "import-sf-mono@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-TpqK0usbarU+qmSmaieIeVGU2UNVWPRpyBAjVgF+qb0sDwA+9eKrYdK00W0myMuEnNNowyXTmNFG08Ym1OR21w==",
+  "_location": "/import-sf-mono",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/import-sf-mono/versions/1.0.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/import-sf-mono/versions/1.0.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/import-sf-mono/versions/1.0.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/import-sf-mono/versions/1.0.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/import-sf-mono/versions/1.0.1/tarball",
+  "_shasum": "98fe4eee4392df6675db9e6bd9b1ad94aaeb1995",
+  "_spec": "https://www.atom.io/api/packages/import-sf-mono/versions/1.0.1/tarball",
+  "_where": "/tmp/apm-install-dir-11981-2194-kwh7w7.7nzim",
+  "bugs": {
+    "url": "https://github.com/dtinth/atom-import-sf-mono/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Use the SF Mono font in Atom by importing it from Terminal.app",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/dtinth/atom-import-sf-mono#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/import-sf-mono",
+  "name": "import-sf-mono",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtinth/atom-import-sf-mono.git"
+  },
+  "version": "1.0.1",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".js": [
+        "lib/import-sf-mono.js"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

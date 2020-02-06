@@ -1,0 +1,50 @@
+{
+  "_from": "https://www.atom.io/api/packages/language-stan/versions/1.2.0/tarball",
+  "_id": "language-stan@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-gMQA9xPHCgTEIdnr5Dx119D1qbqAKJLxdEmjYK2SeN9D38gYtNpIFNCB3BwO71URzbscaozxxHFUGua40EAxsg==",
+  "_location": "/language-stan",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/language-stan/versions/1.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/language-stan/versions/1.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/language-stan/versions/1.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/language-stan/versions/1.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/language-stan/versions/1.2.0/tarball",
+  "_shasum": "1a0b7dd8ee535de5dc5e6d4a1367835ddb81fccf",
+  "_spec": "https://www.atom.io/api/packages/language-stan/versions/1.2.0/tarball",
+  "_where": "/tmp/apm-install-dir-11981-13887-19ih9ou.i8ly",
+  "bugs": {
+    "url": "https://github.com/jrnold/atom-language-stan/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Stan Language support in Atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/jrnold/atom-language-stan#readme",
+  "license": "MIT",
+  "name": "language-stan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrnold/atom-language-stan.git"
+  },
+  "version": "1.2.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

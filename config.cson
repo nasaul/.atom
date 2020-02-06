@@ -1,0 +1,44 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#ef5350"
+      accentColor: "#59fcff"
+      predefinedColor: "Red"
+    fonts:
+      fontSize: 19
+    tabs:
+      compactTabs: true
+      stretchedTabs: true
+    ui:
+      panelContrast: true
+  core:
+    autoHideMenuBar: true
+    automaticallyUpdate: false
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax-dark"
+    ]
+  editor:
+    fontFamily: "SF mono"
+    fontSize: 18
+    preferredLineLength: 100
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "0f0f9d51-0248-402f-8432-cfae53c0071d"
+  fonts: {}
+  "platformio-ide-terminal":
+    core: {}
+    style:
+      fontFamily: "Roboto mono for Powerline"
+      theme: "linux"
+  termination:
+    core:
+      shell: "/bin/zsh"
+    style:
+      fontFamily: "PowerlineSymbols, Roboto mono"
+      theme: "pro"
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
