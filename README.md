@@ -1,1 +1,1 @@
-# Atom configuration settings
+# Ping
