@@ -186,7 +186,7 @@
   "deprecated": false,
   "description": "Lots of monospace fonts.",
   "devDependencies": {
-    "js-yaml": "^3.12.0"
+    "js-yaml": "^4.1.1"
   },
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
